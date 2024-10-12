@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on projects using Python
 - 📫 How to reach me m.aiesh.adnan@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ I'm very proficient in Python and I am also certified by Google
+- ⚡ I'm very proficient in HTML, CSS, JavaScript, PHP, Python, NodeJS, MySQL, Basic React, Express, Bootstrap and also certified by Google.
