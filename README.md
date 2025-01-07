@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @maieshadnan
-- 👀 I’m interested in Full Stack Development, Artificial Intelligence (ML, Data Science)
-- 🌱 I’m currently interested in Artifical Intelligence (I just know a little basics)
-- 💞️ I’m looking to collaborate on projects using Python
+- 🤓 I'm a Flutter Developer with Web Experience.
+- 👀 I’m interested in Artificial Intelligence (ML, Data Science)
+- 🌱 I’m currently interested in Artifical Intelligence (I know about basics)
+- 💞️ I’m looking to actively collaborate on projects!
 - 📫 How to reach me: m.aiesh.adnan@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ I'm very proficient in HTML, CSS, JavaScript, PHP, Python, NodeJS, MySQL, React, Express, Bootstrap and also certified by Google.
